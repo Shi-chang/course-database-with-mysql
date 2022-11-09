@@ -1,2 +1,2 @@
 # Overview
-This repository contains my coding practice with MySQL while taking a database course online.
+While I was taking the university course on database, I found that the course seemed to put more emphasis on the theory part. To get more hands-on experience with MySQL, I decided to take this database course online as a complement.
